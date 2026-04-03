@@ -1,7 +1,7 @@
 # ⛏️ PocketHash (PCKT)
 ### The First Hardware-Enforced, Energy-Efficient PoW Protocol for Solana Seeker.
 
-![PocketHash Logo](https://your-link-to-logo.png) <!-- Replace with your PCKT monogram link -->
+![[PocketHash Logo](https://your-link-to-logo.png)](https://beige-wonderful-locust-140.mypinata.cloud/ipfs/bafybeig72y5g3hgbiehsdnkd7vwwvcxza52qjocvf3ay6rnjsbyiso35ua) <!-- Replace with your PCKT monogram link -->
 
 PocketHash (PCKT) brings the fundamental principles of Bitcoin (Fair Launch, Fixed Supply, Proof-of-Work) to the Solana blockchain — natively optimized for the **Solana Seeker** smartphone. We are a team of Cosmos-burned veterans who have seen enough VC-dumps and inflation spirals. PocketHash is our answer: A token that only exists because someone did the work to create it.
 
